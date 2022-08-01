@@ -1,2 +1,5 @@
 # ReMoto_AIDP
-Multiscale neuromusculoskeletal model of the human lower limb
+Multiscale neuromusculoskeletal model of the human lower limb written in Fortran.
+
+
+
